@@ -1,0 +1,17 @@
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\bin\Debug\crud.exe.config
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\bin\Debug\crud.exe
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\bin\Debug\crud.pdb
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\bin\Debug\Capa_Entidad.dll
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\bin\Debug\Capa_Negocios.dll
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\bin\Debug\Capa_Datos.dll
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\bin\Debug\Capa_Entidad.pdb
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\bin\Debug\Capa_Negocios.pdb
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\bin\Debug\Capa_Datos.pdb
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\obj\Debug\crud.csproj.AssemblyReference.cache
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\obj\Debug\crud.Form1.resources
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\obj\Debug\crud.csproj.GenerateResource.cache
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\obj\Debug\crud.csproj.CoreCompileInputs.cache
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\obj\Debug\crud.csproj.Up2Date
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\obj\Debug\crud.exe
+C:\Users\josue\OneDrive\Escritorio\crud\crud\crud\obj\Debug\crud.pdb
